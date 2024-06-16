@@ -1,0 +1,25 @@
+#logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 0px 20px 0px 20px;
+}
+#cake{
+    height: 500px;
+    width: 550px;
+        border-radius: 0px 20px 0px 20px;
+}
+#red-cake{
+    width: 400px;
+    height: 400px;
+}
+#mobile{
+        height: 450px;
+    width: 550px;
+}
+#Play{
+    font-size: 30px;
+    color: rgba(4, 4, 109, 0.701);
+}
+#same{
+    color: red;
+}
